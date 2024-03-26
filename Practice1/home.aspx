@@ -4,6 +4,8 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <h2>Home Page</h2>
+
+   <asp:Label ID="lblreg" runat="server" Text="Register"></asp:Label>
 </asp:Content>
  <%--<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                 <asp:Menu ID="Menu1" runat="server" BackColor="#F7F6F3" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#7C6F57" StaticSubMenuIndent="10px">
